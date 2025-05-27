@@ -4,7 +4,7 @@
 ## Project Overview
 I created an interactive Power BI dashboard to analyze sales data for Maven Toys, a fictional toy store chain in Mexico. The report helps leadership monitor business performance from January 2022 through September 2023.
 
-## Data Sources
+## Files
 - Sales data: Transaction records
 - Products: Product details (ID, name, category, cost, price)
 - Stores: Store locations (ID, name, city, location, opening date)
